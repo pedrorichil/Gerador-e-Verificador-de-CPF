@@ -1,6 +1,4 @@
 """Gera ou checa um CPF.
-Acesse https://github.com/pedrokpp/gerador-e-checker-de-cpf para mais informações.
-
 Funções:
 -----------
     checar(cpf, regiao)
